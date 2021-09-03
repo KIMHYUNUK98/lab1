@@ -8,9 +8,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		Scanner s = new Scanner(System.in);
 		System.out.println("HelloWorld!!\n");
-		System.out.print("ÀÌ¸§ ÀÔ·Â: ");
+		System.out.print("ì´ë¦„ ì…ë ¥:  ");
 		String name = s.next();
-		System.out.println("[" + name + "]´Ô È¯¿µÇÕ´Ï´Ù~ !!!");
+		System.out.println("[" + name + "]ë‹˜ í™˜ì˜í•©ë‹ˆë‹¤!!!~!~!");
 	} 
 
 }
